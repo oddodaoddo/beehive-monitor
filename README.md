@@ -15,7 +15,7 @@ We collect humudity, temperature, barometric pressure and CO2 concentrations (BM
 
 Total cost as is: $93.45
 
-The cost can further be reduced by not using the Qwiic system and instead just using the BME680 sensor itself, soldered on a prototyping hat - estimated total cost would then drop to ~$70 per sensor.
+The cost can further be reduced by not using the Qwiic system and instead just using the BME680 sensor itself, soldered on a prototyping hat - estimated total cost would then drop to ~$70 per monitoring station.
 
 ## What does this repo have?
 
